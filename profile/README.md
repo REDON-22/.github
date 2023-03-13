@@ -9,7 +9,9 @@ For more information, please see the article on [creating a default community he
 
 This repository is also responsible for the EddieHubCommunity Org Profile Page:
 
-![image](https://scontent.fkhi22-1.fna.fbcdn.net/v/t39.30808-6/305442985_447124860770212_6816544254197564524_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHqkFcMQwB3_9M5eoM48MsO8uuYwclMEmPy65jByUwSY5HXCdSHT1XNyfOaA5X-JajCtBzs1CSjTloj8_Vo85pW&_nc_ohc=lv8t-wIcAx0AX-4UBP4&_nc_ht=scontent.fkhi22-1.fna&oh=00_AfAAM4hR8baHVN8o-LykTkedOgzFxoTimtNSyLnBtHHS1w&oe=640A1DA5)
+![image](https://scontent.fkhi22-1.fna.fbcdn.net/v/t39.30808-6/305442985_447124860770212_6816544254197564524_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=luo42nZgk5wAX8aO4wz&_nc_ht=scontent.fkhi22-1.fna&oh=00_AfCsgRapPBwNmjw5bSlr8CQj2oanimSH_imCpdbmCSPscQ&oe=641400E5)
+
+
 
 ## About
 
