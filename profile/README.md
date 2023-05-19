@@ -18,7 +18,10 @@ This repository is also responsible for the EddieHubCommunity Org Profile Page:
 Redon-22 Game Development Studio
 @redon-22gamedevelopmentstu34
 
-Hello! We are Redon-22 Game Development Studios from Pakistan. We are Professional Game Developers. We are Making games like First/Third person Shooter game, Singleplayer / Multiplayer, Arcade, Action, RPG, Sports, Strategy. We have Expertise in Blueprint and C++ both. We have Professional Team Members who command in Artificial Intelligence, 3d Modeling, VFX, Sound Designing, Landscape, AAA Quality Games. Learn more about us [at our website](https://www.eddiehub.org/)
+Hello! We are Redon-22 Game Development Studios from Pakistan. We are Professional Game Developers. We are Making games like First/Third person Shooter game, Singleplayer / Multiplayer, Arcade, Action, RPG, Sports, Strategy. We have Expertise in Blueprint and C++ both. We have Professional Team Members who command in Artificial Intelligence, 3d Modeling, VFX, Sound Designing, Landscape, AAA Quality Games. Learn more about us [at our website](https://www.facebook.com/redon22official/)
 
 ## Connect
 - [Subscribe to our YouTube channel](https://www.youtube.com/@redon-22gamedevelopmentstu34)
+- [Facebook](https://www.facebook.com/redon22official/)
+- [Instagram](https://www.instagram.com/redon_22gamedevelopementstduio/)
+- [Email](shumaimansari123@gmail.com)
