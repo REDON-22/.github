@@ -9,7 +9,7 @@ For more information, please see the article on [creating a default community he
 
 This repository is also responsible for the Redon-22 Org Profile Page:
 
-![image](https://scontent.fkhi22-1.fna.fbcdn.net/v/t39.30808-6/305442985_447124860770212_6816544254197564524_n.jpg?stp=dst-jpg_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHqkFcMQwB3_9M5eoM48MsO8uuYwclMEmPy65jByUwSY5HXCdSHT1XNyfOaA5X-JajCtBzs1CSjTloj8_Vo85pW&_nc_ohc=EDB2orFzTvkAX8THHvV&_nc_ht=scontent.fkhi22-1.fna&oh=00_AfDOvVEIJodCA76aq-kn1zJ0UZR0ijNT8gPTmHkGRfUQwA&oe=646CFE25)
+![image](https://drive.google.com/file/d/1bPwU2ddForv338pWh24ziK1xYEtky8GQ/view?usp=sharing)
 
 
 
