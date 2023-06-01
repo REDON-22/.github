@@ -9,9 +9,7 @@ For more information, please see the article on [creating a default community he
 
 This repository is also responsible for the Redon-22 Org Profile Page:
 
-![image](https://drive.google.com/file/d/1bPwU2ddForv338pWh24ziK1xYEtky8GQ/view?usp=sharing)
-
-
+![image](https://drive.google.com/uc?export=download&id=1bPwU2ddForv338pWh24ziK1xYEtky8GQ)
 
 ## About
 
